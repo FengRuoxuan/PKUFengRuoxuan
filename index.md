@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/FengRuoxuan/PKUFengRuoxuan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FengRuoxuan/PKUFengRuoxuan/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>冯若璇的个人网站</title>
+   <link href="styles.css"rel="stylesheet"type="text/css"/>
+</head>
+<body>
+   <h1>自我介绍</h1>
+   <p>1.名字的寓意:璇字是美玉的意思。<p>
+</body>
+   <p>2.我的家乡:河北定州<p>
+        <p>定州市是中华人民共和国河北省直接管辖的县级市，享有副地级市待遇。位于保定市和石家庄市之间，北纬38°14ˊ至38°40ˊ，东经114°48ˊ至115°15ˊ之间，太行山东麓，华北平原西缘。定州市是华北地区重要交通枢纽。自古就有“九州咽喉地，神京扼要区”之称。定州瓷器玉器历史悠久。定州的定州贡院是我国北方唯一保存较为完整的封建社会选拔秀才和贡生的考场。<p>
+         <img src="http://p1.pstatp.com/large/pgc-image/1539248661028a806a5e728">
+         <img src="http://dpic.tiankong.com/rd/r5/QJ6226203861.jpg?x-oss-process=style/shows">
+         <img src="http://5b0988e595225.cdn.sohucs.com/images/20190518/53a407e20718462298785fbcbc8de1c2.jpeg">
+        <p>定州市位于京津冀经济区，是京津冀经济区重要节点城市，国家新型城镇化综合试点地区，河北省十二五规划重点培育的现代化中等城市，河北省十大历史文化名城之一。</p>
+    <p>3.我的高中母校:河北定州中学<p>
+         <p>我的母校是全国百强中学，全国文明单位，多所高校优秀生源基地，河北省示范性高中,建校于1902年，以“厚德笃学创新自强”为校训。</p>
+         <img src="https://pics2.baidu.com/feed/6c224f4a20a44623329b32c5485ffc080df3d74c.jpeg?token=69254c9f108da53f8dc6b9ee5d5ad52a">
+         <img src="https://pics3.baidu.com/feed/00e93901213fb80e7eed4ebbe7aca128b9389425.jpeg?token=76c87f809d5f25d24473e83ca26934fe">
+</html>
